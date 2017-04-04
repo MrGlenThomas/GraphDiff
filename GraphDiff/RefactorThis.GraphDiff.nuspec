@@ -4,6 +4,8 @@
         <id>RefactorThis.GraphDiff.Forked</id>
         <version>2.0.1</version>
         <title>GraphDiff - Entity Framework graph auto-update</title>
+        <authors>Glen Thomas</authors>
+        <owners>brentmckendrick</owners>
         <projectUrl>https://github.com/MrGlenThomas/GraphDiff</projectUrl>
         <iconUrl>http://s8.postimg.org/r3f1stx69/Graph_Diff.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -24,6 +26,7 @@ v1.3.5
  - Update to work with EF 6
  - Bug fixes (see GitHub issues)
  - MIT license</releaseNotes>
+        <copyright>Brent McKendrick</copyright>
         <language>en-US</language>
         <tags>EntityFramework, EF, CodeFirst, DetachedUpdate</tags>
         <dependencies>
